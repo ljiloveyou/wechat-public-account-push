@@ -47,7 +47,7 @@ const USER_CONFIG = {
 
       id: 'okUcl563-6MsvWP3ZmyRgzKqiHNg',
 
-      useTemplateId: 'FX4c2ETj9lCsg1f12e_hUgiQpRmPk9MjOVBwsmt4qw4',
+      useTemplateId: 'V4iatvNlBUcB02FO9Zzse5tV3Tq_EjR3Bwn4XDWNfGo',
 
       province: '甘肃省',
 
