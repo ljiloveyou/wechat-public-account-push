@@ -45,7 +45,7 @@ const USER_CONFIG = {
     {
       name: '宝宝',
 
-      id: 'okUcl563-6MsvWP3ZmyRgzKqiHNg',
+      id: 'okUcl5zwtDGXylTlgk0JrTpMH_AU',
 
       useTemplateId: 'V4iatvNlBUcB02FO9Zzse5tV3Tq_EjR3Bwn4XDWNfGo',
 
